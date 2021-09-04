@@ -1,0 +1,10 @@
+type: ItemTurret
+ammo: {
+  diamond: diamond
+
+  DiamondBullet: {
+    type: MissileBulletType
+    damage: 2
+  }
+shots: 10
+requirements: ["diamond/100"]
