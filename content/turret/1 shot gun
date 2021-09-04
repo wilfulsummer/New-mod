@@ -8,3 +8,7 @@ ammo: {
   }
 shots: 10
 requirements: ["diamond/100"]
+size: 1
+category: turret
+localizedName: 1 shot gun
+description: Death is coming!
